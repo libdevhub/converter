@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>aleph-publish:000003834</identifier>
+			</header>
+			<metadata>				<?xml version="1.0" encoding="UTF-8"?><marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000 i 4500</marc:leader>
+    <marc:controlfield tag="008">220726n####is######s#####0|0#|#heb#d</marc:controlfield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="b">heb</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+      <marc:subfield code="a">ASAI</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="b">txt</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="b">c</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">online resource</marc:subfield>
+      <marc:subfield code="b">cr</marc:subfield>
+      <marc:subfield code="c">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="347" ind1=" " ind2=" ">
+      <marc:subfield code="a">image file</marc:subfield>
+      <marc:subfield code="b">TIF</marc:subfield>
+      <marc:subfield code="2">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="347" ind1=" " ind2=" ">
+      <marc:subfield code="a">text file</marc:subfield>
+      <marc:subfield code="b">PDF</marc:subfield>
+      <marc:subfield code="2">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="542" ind1=" " ind2=" ">
+      <marc:subfield code="a">זכויות היוצרים על הסיפור מצויות בידי ארכיון הסיפור העממי בישראל ע"ש דב נוי (אסע"י), באוניברסיטת חיפה. השימוש בסיפור מחייב את ציון הפרטים הבאים: שמו המלא של הארכיון: "ארכיון הסיפור העממי בישראל ע"ש דב נוי (אסע"י), באוניברסיטת חיפה"; שם רושם/רושמת הסיפור; שם מספר/ת הסיפור; עדת המוצא; המספר הסידורי של הסיפור בארכיון</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="552" ind1=" " ind2=" ">
+      <marc:subfield code="a">הסיפור נקלט ותועד ע"י ארכיון הסיפור העממי בישראל ע"ש דב נוי (אסע"י), באוניברסיטת חיפה</marc:subfield>
+      <marc:subfield code="u">http://ifa.haifa.ac.il</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="583" ind1=" " ind2=" ">
+      <marc:subfield code="a">התאמת הרשומה לקטלוג:</marc:subfield>
+      <marc:subfield code="k">ספריית אוניברסיטת חיפה</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1=" " ind2=" ">
+      <marc:subfield code="a">ארכיון הספור העממי בישראל ע"ש דב נוי</marc:subfield>
+      <marc:subfield code="9">heb</marc:subfield>
+      <marc:subfield code="e">גוף מנפיק</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">DOC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">DTEXT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">אסע"י 12858 - שמר שבת ונשכר</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">עברית</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="093" ind1=" " ind2=" ">
+      <marc:subfield code="a">אסע"י 12858</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">רוכל יהודי חוזר לביתו בערב שבת ורואה ערמה זהובה על הדרך. הוא חושב שזהו מעשה שטן המבקש להביאו לידי חילול שבת וממהר לביתו. בחזרתו במוצאי שבת מבית הכנסת מצא הרוכל דינר זהב בפתח ביתו. הוא מחליט לתת את דינר הזהב לסוחר ידוע כדי שזה אולי יעניק לו רווחים כאשר ישוב ממסעותיו. הסוחר, בהיותו על ספינה קונה באמצעות הדינר קופסא עם חתול. למחרת, סערה מביאה את קברניט הספינה למצוא מחסה באי אחד. הנוסעים, וביניהם הסוחר מוזמנים לארוחה אצל המלך של המקום, כאשר המוני עכברים יוצאים מחוריהם, זוללים את המזון ומפריעים לסועדים. המלך מתלונן כי אין חתולים במקום והסוחר בתגובה מביא את החתול שקנה באמצעות הדינר, וזה מגרש את העכברים. כאות תודה מצווה המלך שימלאו את קופסתו של הסוחר בדינרי זהב.  הסוחר שב לביתו אך הרוכל אינו חוזר לשאול על כספו. הסוחר קורא לרוכל ושואל אותו מדוע לא בא והרוכל משיב כי שהוא לא רצה להטריח אדם במעמדו על עניין פעוט כדינר זהב אחד. הסוחר מספר לו על אודות המקרה ומראה לו את ערמת הזהב. הסוחר שואל אותו האם זו הערמה אותה ראה בחזרו הביתה בערב שבת והרוכל משיב לו שכן, אך זו חסרה דינר אחד. הסוחר משיב, כי זה הדינר שכבר ניתן לו על מפתן ביתו.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="522" ind1=" " ind2=" ">
+      <marc:subfield code="a">עירק=בבל</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="i">דמות ריאליסטית ללא שם</marc:subfield>
+      <marc:subfield code="j">רוכל</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="i">דמות ריאליסטית ללא שם</marc:subfield>
+      <marc:subfield code="j">סוחר</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="i">דמות ריאליסטית ללא שם</marc:subfield>
+      <marc:subfield code="j">מלך</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="i">דמות ריאליסטית ללא שם</marc:subfield>
+      <marc:subfield code="j">קברניט, רב חובל</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="i">בעל חיים</marc:subfield>
+      <marc:subfield code="j">חתול, חתולה</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="i">בעל חיים</marc:subfield>
+      <marc:subfield code="j">עכבר</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="k">בית</marc:subfield>
+      <marc:subfield code="l">שולחן</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="k">כלי</marc:subfield>
+      <marc:subfield code="l">קופסא</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="k">מטבע / שטר</marc:subfield>
+      <marc:subfield code="l">דינר</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="k">מטבע / שטר</marc:subfield>
+      <marc:subfield code="l">זהב</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="k">תחבורה</marc:subfield>
+      <marc:subfield code="l">			</metadata>
+		</record>
+	</ListRecords>
+</OAI-PMH>ספינה</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="e">אמרות</marc:subfield>
+      <marc:subfield code="f">מזל ומזל ותהפוכותיו</marc:subfield>
+      <marc:subfield code="2">אסעי</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="c">אגדת קודש</marc:subfield>
+      <marc:subfield code="2">אסעי</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="691" ind1=" " ind2=" ">
+      <marc:subfield code="c">שבת</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">אגסי, אליהו</marc:subfield>
+      <marc:subfield code="9">he</marc:subfield>
+      <marc:subfield code="e">מספר</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="q">מרחב ריאליסטי בעל שם</marc:subfield>
+      <marc:subfield code="r">עמארה</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="q">מרחב ריאליסטי ללא שם</marc:subfield>
+      <marc:subfield code="r">כפר</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="q">מרחב ריאליסטי ללא שם</marc:subfield>
+      <marc:subfield code="r">בית</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="q">מרחב ריאליסטי ללא שם</marc:subfield>
+      <marc:subfield code="r">בית כנסת</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="q">מרחב ריאליסטי ללא שם</marc:subfield>
+      <marc:subfield code="r">כרכי הים</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="q">מרחב ריאליסטי ללא שם</marc:subfield>
+      <marc:subfield code="r">אי</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="o">מנהג בהקשר לאל</marc:subfield>
+      <marc:subfield code="p">איסור חילול שבת</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="o">מנהג בהקשר לאל</marc:subfield>
+      <marc:subfield code="p">הבדלה</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="o">מנהג בהקשר לאל</marc:subfield>
+      <marc:subfield code="p">שירת פיוטים</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="o">מנהג בהקשר לאל</marc:subfield>
+      <marc:subfield code="p">ארוחת שבת</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="690" ind1=" " ind2=" ">
+      <marc:subfield code="o">מנהג בהקשר לאל</marc:subfield>
+      <marc:subfield code="p">קבלת שבת</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="3">
+      <marc:subfield code="a">שמר שבת ונשכר - אסע"י 12858</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

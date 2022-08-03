@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00609nam a2200193Ia 4500</marc:leader>
+    <marc:controlfield tag="008">220106s9999||||xx |||||||||||||| ||und||</marc:controlfield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">english</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">he destiny of kibbutz industry in Israel: From family businesses to cash mergers</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">אין</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Achouch, Yuval</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">ARTICLE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="773" ind1="0" ind2=" ">
+      <marc:subfield code="t">Journal of Co-operative Organization and Management 10 (2022)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Industry</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Business ownership</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a"> Business management</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Family business</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="917" ind1=" " ind2=" ">
+      <marc:subfield code="a">חנה</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record>
+    <marc:leader>00609nam a2200193Ia 4500</marc:leader>
+    <marc:controlfield tag="008">220106s9999||||xx |||||||||||||| ||und||</marc:controlfield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">עברית</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">בדרכן: נשות עין חרוד  1948-1921</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b"> אוניברסיטת בן גוריון בנגב. מכון בן גוריון לחקר ישראל, הציונות ומורשת בן גוריון,   יד טבנקין</marc:subfield>
+      <marc:subfield code="c">2019</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">358</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">קמינסקי, תמר</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">BOOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">History</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Women</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Ein Harod</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Particular Kibbutz</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="917" ind1=" " ind2=" ">
+      <marc:subfield code="a">חנה</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record>
+    <marc:leader>00609nam a2200193Ia 4500</marc:leader>
+    <marc:controlfield tag="008">220106s9999||||xx |||||||||||||| ||und||</marc:controlfield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">עברית</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">מסע סוער : הקיבוץ 1932-1954</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">בני ברק : הקבוץ המאוחד וספרית פועלים</marc:subfield>
+      <marc:subfield code="c">2021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">278</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">צור, מוקי</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">עמית, חנה </marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">BOOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">History</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Land settlement</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="917" ind1=" " ind2=" ">
+      <marc:subfield code="a">חנה</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record>
+    <marc:leader>00609nam a2200193Ia 4500</marc:leader>
+    <marc:controlfield tag="008">220106s9999||||xx |||||||||||||| ||und||</marc:controlfield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">עברית</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">מבט עכשווי על הגן הקיבוצי : תיאוריה, המלצות ופרקטיקה : תו התקן למערכות חינוך קיבוציות בגיל הרך </marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b"> ישראל : הקיבוץ המאוחד</marc:subfield>
+      <marc:subfield code="c">2021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">114</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">צור ברוש, נועה</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">בן ארי ענת</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">BOOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Kindergarten</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Education</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Collective education</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">LB1438.I8 T78 2021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="917" ind1=" " ind2=" ">
+      <marc:subfield code="a">חנה</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
