@@ -1,13 +1,9 @@
 package com.file.converter.converter.service;
 
-import java.util.ArrayList;
+public class Componentcustom extends ComplexField {
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-
-public class Componentcustom {
-	@JsonProperty("$type") 
-	 public String type;
-	 public int order;
-	 public String fieldCode;
-	 public ArrayList<Entry> entries;
+	public Componentcustom() {
+		super(ComplexField.TYPE_FIELD);
+	}
+	
 }

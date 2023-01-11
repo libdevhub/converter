@@ -1,7 +1,7 @@
 package com.file.converter.converter.service;
 
-public class Compspace extends ComplexField{
-	public Compspace() {
+public class Zika extends ComplexField{
+	public Zika() {
 		super(ComplexField.TYPE_FIELD);
 	}
 }

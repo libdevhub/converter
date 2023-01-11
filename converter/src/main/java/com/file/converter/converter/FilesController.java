@@ -29,10 +29,11 @@ public class FilesController {
   @Autowired
   FilesStorageService storageService;
   
+//  @CrossOrigin(origins = "http://132.74.55.32:36547")
   @CrossOrigin(origins = "http://132.74.56.23:8081")
   @GetMapping("/files")
   public ResponseEntity<List<FileInfo>> getListFiles() {
-	System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I am in");
+	//System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I am in");
 	storageService.init();
     List<FileInfo> fileInfos = storageService.loadAll().map(path -> {
       String filename = path.getFileName().toString();
@@ -46,6 +47,7 @@ public class FilesController {
     //return ResponseEntity.status(HttpStatus.OK).body(fileInfos);
   }
 
+//  @CrossOrigin(origins = "http://132.74.55.32:36547")
   @CrossOrigin(origins = "http://132.74.56.23:8081")
   @PostMapping("/upload")
   public ResponseEntity<ResponseMessage> uploadFile(@RequestParam("file") MultipartFile file) {
@@ -70,6 +72,7 @@ public class FilesController {
         .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"" + file.getFilename() + "\"").body(file);
   }
   
+  //@CrossOrigin(origins = "http://132.74.55.32:36547")
   @CrossOrigin(origins = "http://132.74.56.23:8081")
   @DeleteMapping("/files/{filename:.+}")
   public ResponseEntity<ResponseMessage> deleteFile(@PathVariable String filename) {
@@ -85,6 +88,7 @@ public class FilesController {
     }
   }
   
+  //@CrossOrigin(origins = "http://132.74.55.32:36547")
   @CrossOrigin(origins = "http://132.74.56.23:8081")
   @DeleteMapping("/files")
   public void deleteAll() {

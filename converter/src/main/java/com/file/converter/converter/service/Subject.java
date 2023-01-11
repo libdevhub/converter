@@ -1,19 +1,18 @@
 package com.file.converter.converter.service;
 
+
 import java.util.ArrayList;
 import java.util.Locale;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
 
-public class Audiocassettenumber extends GenericField {
-	@JsonProperty("$type") 
+public class Subject extends GenericField {
 	 public String type;
 	 public int order;
 	 public String fieldCode;
 	 public ArrayList<Entry> entries;
 	 
-	 public Audiocassettenumber() {
-		super("096", new char[] {'a'}, new String[] {null}, ' ', ' ');
+	 public Subject() {
+		super("691", new char[] {'a'}, new String[] {null}, ' ', ' ');
 	 }
 	 
 	 public ArrayList<String> getSubFieldValue() {
@@ -34,7 +33,7 @@ public class Audiocassettenumber extends GenericField {
 		 }
 		 return langCode;
 		 //return entries.get(0).lines.get(0).langCode;
-	 }
+	}
 
 	@Override
 	public ArrayList<String> getRelatedFieldValue() {

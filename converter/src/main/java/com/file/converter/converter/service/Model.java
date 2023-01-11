@@ -8,24 +8,40 @@ public class Model {
     public Description description;
     public Ethnic ethnic;
     public Circumstances circumstances;
-    public Compcharacterunonymname compcharacterunonymname;
+    public Compcharacterknownf compcharacterknownf;
+	public Compcharacterunonymname compcharacterunonymname;
     public Compcharacterunonym compcharacterunonym;
     public Compcharacterunonymf compcharacterunonymf;
-    public Compobjectname compobjectname;
+    public Comphistorictime comphistorictime;
+	public Compobjectname compobjectname;
     public Compobject compobject;
     public Compobjectf compobjectf;
-    public Compshortgenrename compshortgenrename;
+    public Compplant compplant;
+	public Compshortgenrename compshortgenrename;
     public Compshortgenre compshortgenre;
     public Compshortgenref compshortgenref;
     public Fence fence;
+    public Zika zika;
     public Sogazikaf sogazikaf;
     public Compqualitytime compqualitytime;
-    public Tellerlink tellerlink;
+    public StoryWriterLink storywriterlink;
+    public Storyattype storyattype;
+	public Tellerlink tellerlink;
     public Compspacename compspacename;
-    public Researchreference researchreference;
-    public Videocassettenumber videocassettenumber;
+    public Remarks remarks;
+	public Researchreference researchreference;
+//    public Subject subject;
+	public Transformationf transformationf;
+	public Translation translation;
+	public Videocassettenumber videocassettenumber;
     public Year year;
-    public Model() {
+    public Makbilot makbilot;
+    public Relations relations;
+    public Comptransformation comptransformation;
+	public Comptransformationname comptransformationname;
+    public Compcharacterknown compcharacterknown;
+    public Compcharacterknownname compcharacterknownname;
+	public Model() {
 		// TODO Auto-generated constructor stub
 	}
     public Title getTitle() {
@@ -57,6 +73,12 @@ public class Model {
 	}
 	public void setEthnic(Ethnic ethnic) {
 		this.ethnic = ethnic;
+	}
+	public Compcharacterknownf getCompcharacterknownf() {
+		return compcharacterknownf;
+	}
+	public void setCompcharacterknownf(Compcharacterknownf compcharacterknownf) {
+		this.compcharacterknownf = compcharacterknownf;
 	}
 	public Compcharacterunonymname getCompcharacterunonymname() {
 		return compcharacterunonymname;
@@ -118,6 +140,12 @@ public class Model {
 	public void setFence(Fence fence) {
 		this.fence = fence;
 	}
+	public Zika getZika() {
+		return zika;
+	}
+	public void setZika(Zika zika) {
+		this.zika = zika;
+	}
 	public Sogazikaf getSogazikaf() {
 		return sogazikaf;
 	}
@@ -171,6 +199,90 @@ public class Model {
 	}
 	public void setComponentf(Componentf componentf) {
 		this.componentf = componentf;
+	}
+	public StoryWriterLink getStorywriterlink() {
+		return storywriterlink;
+	}
+	public void setStorywriterlink(StoryWriterLink storywriterlink) {
+		this.storywriterlink = storywriterlink;
+	}
+	public Transformationf getTransformationf() {
+		return transformationf;
+	}
+	public void setTransformationf(Transformationf transformationf) {
+		this.transformationf = transformationf;
+	}
+	public Storyattype getStoryattype() {
+		return storyattype;
+	}
+	public void setStoryattype(Storyattype storyattype) {
+		this.storyattype = storyattype;
+	}
+	public Makbilot getMakbilot() {
+		return makbilot;
+	}
+	public void setMakbilot(Makbilot makbilot) {
+		this.makbilot = makbilot;
+	}
+	public Relations getRelations() {
+		return relations;
+	}
+	public void setRelations(Relations relations) {
+		this.relations = relations;
+	}
+	public Remarks getRemarks() {
+		return remarks;
+	}
+	public void setRemarks(Remarks remarks) {
+		this.remarks = remarks;
+	}
+//	public Subject getSubject() {
+//		return subject;
+//	}
+//	public void setSubject(Subject subject) {
+//		this.subject = subject;
+//	}
+	public Compplant getCompplant() {
+		return compplant;
+	}
+	public void setCompplant(Compplant compplant) {
+		this.compplant = compplant;
+	}
+	public Comphistorictime getComphistorictime() {
+		return comphistorictime;
+	}
+	public void setComphistorictime(Comphistorictime comphistorictime) {
+		this.comphistorictime = comphistorictime;
+	}
+	public Translation getTranslation() {
+		return translation;
+	}
+	public void setTranslation(Translation translation) {
+		this.translation = translation;
+	}
+	public Comptransformation getComptransformation() {
+		return comptransformation;
+	}
+	public void setComptransformation(Comptransformation comptransformation) {
+		this.comptransformation = comptransformation;
+	}
+	public Comptransformationname getComptransformationname() {
+		return comptransformationname;
+	}
+	public void setComptransformationname(Comptransformationname comptransformationname) {
+		this.comptransformationname = comptransformationname;
+	}
+	public Compcharacterknown getCompcharacterknown() {
+		return compcharacterknown;
+	}
+	public void setCompcharacterknown(Compcharacterknown compcharacterknown) {
+		this.compcharacterknown = compcharacterknown;
+	}
+	public Compcharacterknownname getCompcharacterknownname() {
+		return compcharacterknownname;
+	}
+	public void setCompcharacterknownname(Compcharacterknownname compcharacterknownname) {
+		this.compcharacterknownname = compcharacterknownname;
 	}
 	public Compspace compspace;
     public Compspacef compspacef;

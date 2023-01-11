@@ -5,15 +5,15 @@ import java.util.Locale;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-public class Audiocassettenumber extends GenericField {
+public class Translation extends GenericField {
 	@JsonProperty("$type") 
 	 public String type;
 	 public int order;
 	 public String fieldCode;
 	 public ArrayList<Entry> entries;
 	 
-	 public Audiocassettenumber() {
-		super("096", new char[] {'a'}, new String[] {null}, ' ', ' ');
+	 public Translation() {
+		super("546", new char[] {'a'}, new String[] {null}, ' ', ' ');
 	 }
 	 
 	 public ArrayList<String> getSubFieldValue() {
@@ -47,5 +47,4 @@ public class Audiocassettenumber extends GenericField {
 		// TODO Auto-generated method stub
 		return null;
 	}
-
 }

@@ -1,7 +1,7 @@
 package com.file.converter.converter.service;
 
-public class Compspace extends ComplexField{
-	public Compspace() {
+public class Comptransformation extends ComplexField {
+	public Comptransformation() {
 		super(ComplexField.TYPE_FIELD);
 	}
 }
